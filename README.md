@@ -10,9 +10,9 @@ Demo Video:
 
 ## Requirements
 
-macOS Catalina (Uses system Python 3.7
-Python 3.7
-Alfred Workflow
+* macOS Catalina (Uses system Python 3.7
+* Python 3.7
+* Alfred Workflow
 
 ## Setup
 
