@@ -5,6 +5,7 @@ This is a Python script and Alfred Workflow to export today's Google Calendar ev
 **This is very rough and not meant to be plug and play. It is completely unsupported. I just wanted to put it out there to be a base start for others.**
 
 Demo Video:
+
 [![Demo Video](https://img.youtube.com/vi/x4id7c5jtTk/0.jpg)](https://youtu.be/x4id7c5jtTk)
 
 ## Requirements
