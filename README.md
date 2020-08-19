@@ -6,7 +6,7 @@ This is a Python script and Alfred Workflow to export today's Google Calendar ev
 
 Demo Video:
 
-[![Demo Video](https://img.youtube.com/vi/x4id7c5jtTk/0.jpg)](https://youtu.be/x4id7c5jtTk)
+[![Demo Video](https://img.youtube.com/vi/AEK0-ZU8m_8/0.jpg)](https://youtu.be/AEK0-ZU8m_8)
 
 ## Requirements
 
