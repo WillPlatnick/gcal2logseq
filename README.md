@@ -20,7 +20,7 @@ git clone https://github.com/WilliamDurin/gcal-roam.git
 
 Go [here](https://developers.google.com/calendar/quickstart/python) and click the 'Enable the Google API' button, download the credentials.json file and stick it into the gcal-roam directory you just checked out.
 
-Run /usr/bin/pip3 -r requirements.txt
+Run /usr/bin/pip3 install -r requirements.txt
 
 Run /usr/bin/python3 quickstart.py, it should load a web page to give permissions to the app. You can ignore the insecure prompts since it's your own app.
 
