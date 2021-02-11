@@ -49,7 +49,7 @@ def main():
         print('No upcoming events found.')
     for event in events:
         start = event['start'].get('dateTime', event['start'].get('date'))
-        print(datetime.datetime.fromisoformat(start).strftime("%I:%M %p"), " - [[", event['summary'].replace(' (copy)', ''), "]]", sep='')
+        print("### ", datetime.datetime.fromisoformat(start).strftime("%I:%M %p"), " - [[", event['summary'].replace(' (copy)', ''), "]]", sep='')
 
 if __name__ == '__main__':
     main()
